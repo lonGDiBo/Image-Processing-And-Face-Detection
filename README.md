@@ -21,6 +21,7 @@ Train a facial recognition and image processing model. Then, build a user-friend
 ![image](https://github.com/lonGDiBo/Image-Processing-And-Face-Detection/assets/115699195/3a60f34d-948d-40ae-8bfa-b7627e3ea982)
 
 - Face detection
+
 ![image](https://github.com/lonGDiBo/Image-Processing-And-Face-Detection/assets/115699195/e7aad5f6-c4a8-4914-98df-b1608add4afb)
 
 ##### Image Processing
@@ -47,3 +48,5 @@ Train a facial recognition and image processing model. Then, build a user-friend
 - ConnectedCoponent
   
 ![image](https://github.com/lonGDiBo/Image-Processing-And-Face-Detection/assets/115699195/37edfe0d-410a-4635-9353-9d8462d2e413)
+
+####  There are also many other image processing functions
